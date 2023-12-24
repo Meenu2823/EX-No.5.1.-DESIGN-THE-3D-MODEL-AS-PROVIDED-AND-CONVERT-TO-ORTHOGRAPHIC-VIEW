@@ -11,7 +11,6 @@ To create orthographic view of given 3D model
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-
 ### STEP-1:
 Open Fusion 360 and select file and click new file
 
@@ -40,5 +39,3 @@ Switch to drawing mode from design mode
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
-
-
